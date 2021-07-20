@@ -1,0 +1,36 @@
+.centered{
+  text-align: center;
+}
+
+.mt-1{
+  margin-top: 10vh;
+}
+
+.col-4{
+  width:33%
+}
+
+
+.h-1{
+  height: 40px;
+}
+
+.b-gray{
+  background-color: #eceaea;
+  border-color: #cacaca
+}
+
+.display-ib{
+  display: inline-block;
+}
+
+.searchList{
+  border: 2px solid rgb(98 197 255);
+  margin-top: 2vh;
+  text-align: left;
+  background: rgb(244 254 253);
+  width: 100%;
+  min-height: 42px;
+  padding-top: 10px;
+  overflow: hidden;
+}
