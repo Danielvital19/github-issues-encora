@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github-issues-encora/static/css/main.af30538f.chunk.css",
+    "main.js": "/github-issues-encora/static/js/main.fedd6127.chunk.js",
+    "main.js.map": "/github-issues-encora/static/js/main.fedd6127.chunk.js.map",
+    "runtime-main.js": "/github-issues-encora/static/js/runtime-main.b19d975c.js",
+    "runtime-main.js.map": "/github-issues-encora/static/js/runtime-main.b19d975c.js.map",
+    "static/js/2.4890b775.chunk.js": "/github-issues-encora/static/js/2.4890b775.chunk.js",
+    "static/js/2.4890b775.chunk.js.map": "/github-issues-encora/static/js/2.4890b775.chunk.js.map",
+    "static/js/3.a02c1c67.chunk.js": "/github-issues-encora/static/js/3.a02c1c67.chunk.js",
+    "static/js/3.a02c1c67.chunk.js.map": "/github-issues-encora/static/js/3.a02c1c67.chunk.js.map",
+    "index.html": "/github-issues-encora/index.html",
+    "static/css/main.af30538f.chunk.css.map": "/github-issues-encora/static/css/main.af30538f.chunk.css.map",
+    "static/js/2.4890b775.chunk.js.LICENSE.txt": "/github-issues-encora/static/js/2.4890b775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19d975c.js",
+    "static/js/2.4890b775.chunk.js",
+    "static/css/main.af30538f.chunk.css",
+    "static/js/main.fedd6127.chunk.js"
+  ]
+}
